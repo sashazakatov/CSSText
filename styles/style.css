@@ -4,3 +4,7 @@
 .link{
     text-decoration: none;
 }
+
+.site-nav .link{
+    text-transform: capitalize;
+}
