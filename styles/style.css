@@ -8,3 +8,12 @@
 .site-nav .link{
     text-transform: capitalize;
 }
+.post-title{
+    text-align: center;
+}
+.align-right{
+    text-align: right;
+}
+.align-justify{
+    text-align: justify;
+}
